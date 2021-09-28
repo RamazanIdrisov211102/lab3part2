@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Parallax Global | About </title>
+</head>
+<body>
+	<img src="parallaxLogo.png">
+	<div>
+		<ul>
+			<li> <a href="#">Home</a> <br></li>
+			<li> <a href="#">About</a> <br> </li>
+			<li> <a href="#">The Parallax Way</a> <br></li>
+			<li><a href="#">Energy Holdings</a> <br></li>	
+		</ul>
+		<img src="featureImage-About.jpg">
+	
+	</div>
+	<br>
+	<div> <main>
+		<b>parallax: noun \ˈpa-rə-ˌlaks\</b>: the apparent displacement or the difference in apparent direction of an object as seen from two different points not on a straight line with the object.
+		 </main>
+		<h1>Our Approach</h1>
+		<p>One of the primary things that stand out about Parallax Global is our unique point-of-view and approach to consulting engagements. <br></p>
+	</div>		
+	<div>
+		<p>The lens through which we view every consulting engagement is a Parallax View, which of course, as the definition of "parallax" suggests, means that we take two alternate (but not necessarily opposing) views of every problem, and compare and contrast two alternate strategies for approaching the problem. This ensures that individuals, teams and management do not become victims of their own paradigms (read Thomas Kuhn's The Structure of Scientific Revolutions for more on this), that we don't get lazy, and that we can assure our clients of the deepest and most creative approaches to their problems, every time.</p>
+	</div>
+	<div>
+		<h1>A Parallax Perspective</h1>
+		<p>As we use the term, we mean taking a look at a task, assignment, problem from two different points-of-view. To do this, we assign two different teams to engage with an assignment and develop their own points of view, and then present their views to three referees, who then decide, based on the information that we have, which is the better initial path to pursue. But that is only the beginning of the process.</p>
+		<img src="perspective.jpg"> 
+	</div>
+	<div><br>
+		Throughout the engagement, we continue to use both points of view as a way of illuminating the "space between them," and achieve greater clarity of observation and effectiveness of action. 
+	</div>
+	<div><br>
+		In this way, we protect ourselves from falling victim to reinforcing our own paradigms.
+	</div>
+	<div><br>
+		Modeled after the great Greek Philosophy, our Parallax view outlines two opposing approaches to the problems we try to collaborate with our clients and resolve. On one hand we use empiricism, viewing what we know from the physical (senses) perspective. We see, we feel, we acquire through being on the ground, talking to people, observing, touching others creations. On the other hand we use rationalism, thinking, reasoning, hypothesizing and abstracting on the way to determine possible courses of action. We also use ethics, the deep understanding of good and bad, right or wrong, just or not – in short morality.
+	</div>
+	<div><br>
+		Our views, our processes and our protocols have been honed over and over again, with time, maturing and advancing over time, as we have grown as an organization. We share these with our people, we share it with our clients, and we share it with the world in our quest to Parallax things for the greater good.
+	</div>
+			<h2>Parallax Global Oil Resources by Region (billion barrels)</h2> 
+			<div>
+		<table frame="void">
+			<tr>
+				<td><b>Region</b></td>
+				<td><b>2000-2005</b></td>
+				<td><b>2005-2010</b></td>
+				<td><b>2010-2013</b></td>
+			</tr>
+			<tr>
+				<th>Noth America</th>
+				<th>56</th>
+				<th>65</th>
+				<th>73</th>
+			</tr>
+			<tr>
+				<th>South America</th>
+				<th>32</th>
+				<th>36</th>
+				<th>25</th>
+			</tr>
+			<tr>
+				<th>Russia</th>
+				<th>14</th>
+				<th>24</th>
+				<th>21</th>
+			</tr>
+			<tr>
+				<th>Middle East</th>
+				<th>19</th>
+				<th>12</th>
+				<th>8</th>
+			</tr>
+		</table>
+	</div>
+	<div>
+		<h2>Join The Parallax Global Consulting Team</h2>
+		<p>Parallax Global offers their clients experienced and skilled consultants to meet their operational needs. We offer engineering expertise specifically in drilling, completions and fracture stimulation operations. In addition to engineering work, we provide consultants on location for both drilling and completion operations.</p>
+	</div>			
+	<div>
+		<p>If you are an engineer or a field consultant who is interested in joining Parallax Global, please fill out the contact form below.</p>
+	</div>
+	<div>
+		<br>
+		<label for="1 name">First Name:</label>
+	</div>
+	<div>
+		<input type="text" name="1 name"> </div>
+	<div>
+		<label for="Last name">Last Name:</label>
+	</div>	
+	<div>
+		<input type="text" name="Last name">
+	</div>
+	<hr>
+	<div>
+		<label for="select">Select Areas of Expertise:</label> </div>
+		<br>
+	<div>
+		<input type="checkbox" name="select">Drilling 
+	</div>	
+		<br>
+		<div>
+	<input type="checkbox" name="select">Engineering	   </div>
+		<br>
+	<div>
+	<input type="checkbox" name="select">Field Consulting</div>
+	<hr>
+		<div>
+			<label for="upload">Upload Resume:</label>
+		</div>
+		<div>
+			<input type="file" name="upload">
+		</div>
+	<hr>
+		<div>
+			Additional Comments:
+		</div>
+			<textarea></textarea>
+		<div>
+			<p><input type="reset" value="Clear"><input type="submit" value="Submit"></p>
+		<div>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "We believe that, while we can't create perfection, we can strive for it"
+		</div>	
+		<p><b>London</b></p>
+		<br>
+		<div>
+			10221b Orange St., Piccadilly<br>
+			London SW1Y 4UH<br>
+			United Kingdom<br>
+			44 (20) 7939-7140<br>
+			<a href="#">Directions</a><br>
+			<a href="#">Contact</a><br>
+		</div>
+		<p><b>New York</b></p>
+		<br>
+		<div>
+			Level House<br>
+			390 Park Avenue<br>
+			New York, NY 10022<br>
+			United States<br>
+			1 (212) 555-7272<br>
+			<a href="#">Directions</a><br>
+			<a href="#">Contact</a><br>
+		</div>
+		<div>
+			<p><b>Paris</b></p>
+			<br>
+		</div>
+		<div>
+			220 Ave des Champs-Elysees <br>
+			75008 Paris <br>
+			France <br>
+			33 (1) 60-14-77-77 <br>
+			<a href="#">Directions</a><br>
+			<a href="#">Contact</a>
+		</div>
+		<p><b>Moscow</b></p>
+		<br>
+		<div>
+			61 Tverskaya Blvd<br>
+		    125009 Moscow<br>
+		    Russia
+		    7 (495) 225-5600<br>
+		    <a href="#">Directions</a><br>
+			<a href="#">Contact</a><br>
+		</div>
+		<p><b>Singapore</b></p>
+		<br>
+		<div>
+			5th Floor Hoon-Foi Building<br>
+			101 Queen Dt<br>
+			Financial District<br>
+			Singapore 19452<br>
+			Singapore<br>
+			65 (6) 335-6700<br>
+			<a href="#">Directions</a><br>
+			<a href="#">Contact</a><br>
+		</div>
+<p>This website and its content are copyrights of Parallax Global Consulting LLC-©️ Parallax Global Consulting LLC 2014. All rights reserved </p>
+
+	</body>
+</html>
